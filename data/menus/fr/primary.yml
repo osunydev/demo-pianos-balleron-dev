@@ -42,8 +42,18 @@ items:
   target: "/lexique/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Agrafe
+    slug: agrafe
+    target: "/lexique/agrafe/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/lexique/agrafe"
+    file: content/fr/pages/lexique/agrafe/_index.html
+  descendants_targets:
+  - "/lexique/agrafe/"
   path: "/pages/lexique"
   file: content/fr/pages/lexique/_index.html
 

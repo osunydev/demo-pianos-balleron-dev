@@ -14,3 +14,191 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/lexique/cadre-en-fonte-du-piano/index.html"
+to = "/fr/lexique/cadre-en-fonte-du-piano/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/fr/projets/"
+
+[[redirects]]
+from = "/lexique/chevilles-du-piano/index.html"
+to = "/fr/lexique/chevilles-du-piano/"
+
+[[redirects]]
+from = "/lexique/pointes-de-balancier-du-piano/index.html"
+to = "/fr/lexique/pointes-de-balancier-du-piano/"
+
+[[redirects]]
+from = "/lexique/pointes-d-enfoncement/index.html"
+to = "/fr/lexique/pointes-d-enfoncement/"
+
+[[redirects]]
+from = "/lexique/index.html"
+to = "/fr/lexique/"
+
+[[redirects]]
+from = "/lexique/mecanique-baionnette/index.html"
+to = "/fr/lexique/mecanique-baionnette/"
+
+[[redirects]]
+from = "/lexique/mecanique-pleyel-a-double-echappement/index.html"
+to = "/fr/lexique/mecanique-pleyel-a-double-echappement/"
+
+[[redirects]]
+from = "/lexique/pianos-a-queue-a-cordes-paralelles/index.html"
+to = "/fr/lexique/pianos-a-queue-a-cordes-paralelles/"
+
+[[redirects]]
+from = "/lexique/mecanique-schwander/index.html"
+to = "/fr/lexique/mecanique-schwander/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/lexique/rouleaux-des-marteaux-de-piano/index.html"
+to = "/fr/lexique/rouleaux-des-marteaux-de-piano/"
+
+[[redirects]]
+from = "/lexique/sommier-des-chevilles/index.html"
+to = "/fr/lexique/sommier-des-chevilles/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/lexique/mecanique-viennoise/index.html"
+to = "/fr/lexique/mecanique-viennoise/"
+
+[[redirects]]
+from = "/personnes/index.html"
+to = "/fr/personnes/"
+
+[[redirects]]
+from = "/lexique/dieses-en-ebene-du-piano/index.html"
+to = "/fr/lexique/dieses-en-ebene-du-piano/"
+
+[[redirects]]
+from = "/lexique/cordes-paralleles-du-piano/index.html"
+to = "/fr/lexique/cordes-paralleles-du-piano/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/lexique/barre-de-repos-des-marteaux/index.html"
+to = "/fr/lexique/barre-de-repos-des-marteaux/"
+
+[[redirects]]
+from = "/lexique/pilotes-d-echappement-du-piano/index.html"
+to = "/fr/lexique/pilotes-d-echappement-du-piano/"
+
+[[redirects]]
+from = "/lexique/ivoire-des-touches-de-piano/index.html"
+to = "/fr/lexique/ivoire-des-touches-de-piano/"
+
+[[redirects]]
+from = "/lexique/etouffoir-du-piano/index.html"
+to = "/fr/lexique/etouffoir-du-piano/"
+
+[[redirects]]
+from = "/lexique/diapason/index.html"
+to = "/fr/lexique/diapason/"
+
+[[redirects]]
+from = "/lexique/mouches-enfoncement-du-piano/index.html"
+to = "/fr/lexique/mouches-enfoncement-du-piano/"
+
+[[redirects]]
+from = "/lexique/flipot/index.html"
+to = "/fr/lexique/flipot/"
+
+[[redirects]]
+from = "/lexique/feutres-des-tetes-des-marteaux/index.html"
+to = "/fr/lexique/feutres-des-tetes-des-marteaux/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/fr/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/lexique/barres-de-table-ou-barettes/index.html"
+to = "/fr/lexique/barres-de-table-ou-barettes/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/lexique/tourillon/index.html"
+to = "/fr/lexique/tourillon/"
+
+[[redirects]]
+from = "/lexique/mortaises-de-balancier-du-clavier/index.html"
+to = "/fr/lexique/mortaises-de-balancier-du-clavier/"
+
+[[redirects]]
+from = "/lexique/attrapes/index.html"
+to = "/fr/lexique/attrapes/"
+
+[[redirects]]
+from = "/lexique/hygrometrie/index.html"
+to = "/fr/lexique/hygrometrie/"
+
+[[redirects]]
+from = "/lexique/double-echappement-piano/index.html"
+to = "/fr/lexique/double-echappement-piano/"
+
+[[redirects]]
+from = "/lexique/cle-d-accord-du-piano/index.html"
+to = "/fr/lexique/cle-d-accord-du-piano/"
+
+[[redirects]]
+from = "/lexique/manches-de-marteaux-avec-olive-neuves/index.html"
+to = "/fr/lexique/manches-de-marteaux-avec-olive-neuves/"
+
+[[redirects]]
+from = "/lexique/fabrication-des-bouclettes-francaises/index.html"
+to = "/fr/lexique/fabrication-des-bouclettes-francaises/"
+
+[[redirects]]
+from = "/lexique/cordes-croisees-du-piano/index.html"
+to = "/fr/lexique/cordes-croisees-du-piano/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/lexique/pianoforte/index.html"
+to = "/fr/lexique/pianoforte/"
+
+[[redirects]]
+from = "/lexique/joues-des-touches/index.html"
+to = "/fr/lexique/joues-des-touches/"
+
+[[redirects]]
+from = "/lexique/table-d-harmonie-du-piano/index.html"
+to = "/fr/lexique/table-d-harmonie-du-piano/"
+
+[[redirects]]
+from = "/lexique/pilotes-du-piano/index.html"
+to = "/fr/lexique/pilotes-du-piano/"
+
+[[redirects]]
+from = "/lexique/agrafe/index.html"
+to = "/fr/lexique/agrafe/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/lexique/pianos-droit-a-cadre-en-bois-1860-1920/index.html"
+to = "/fr/lexique/pianos-droit-a-cadre-en-bois-1860-1920/"
+

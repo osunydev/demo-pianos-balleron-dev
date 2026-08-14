@@ -1,0 +1,40 @@
+---
+title: Menu principal
+items:
+- title: Actualités
+  slug: actualites
+  target: "/ja/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/ja/posts/_index.html
+- title: Projets
+  slug: projets
+  target: "/ja/projets/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/projects"
+  file: content/ja/projects/_index.html
+- title: Personnes
+  slug: personnes
+  target: "/ja/personnes/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/persons"
+  file: content/ja/persons/_index.html
+- title: Organisations
+  slug: organisations
+  target: "/ja/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/organizations"
+  file: content/ja/organizations/_index.html
+

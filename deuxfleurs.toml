@@ -131,10 +131,6 @@ from = "/lexique/barres-de-table-ou-barettes/index.html"
 to = "/fr/lexique/barres-de-table-ou-barettes/"
 
 [[redirects]]
-from = "/fr/agrafe-36.html/index.html"
-to = "/fr/lexique/agrafe/"
-
-[[redirects]]
 from = "/organisations/index.html"
 to = "/fr/organisations/"
 

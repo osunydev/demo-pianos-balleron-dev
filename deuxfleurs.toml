@@ -19,6 +19,18 @@ from = "/lexique/cadre-en-fonte-du-piano/index.html"
 to = "/fr/lexique/cadre-en-fonte-du-piano/"
 
 [[redirects]]
+from = "/en/barres-de-table-ou-barettes-370.html"
+to = "/en/piano-ribs/"
+
+[[redirects]]
+from = "/en/rouleaux-des-marteaux-de-piano-163.html"
+to = ""
+
+[[redirects]]
+from = "/en/chevilles-du-piano-371.html"
+to = "/en/piano-tuning-pins/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/fr/projets/"
 
@@ -27,12 +39,24 @@ from = "/lexique/chevilles-du-piano/index.html"
 to = "/fr/lexique/chevilles-du-piano/"
 
 [[redirects]]
+from = "/en/mecanique-baionnette-391.html"
+to = ""
+
+[[redirects]]
+from = "/fr/cle-d-accord-du-piano-382.html"
+to = "/fr/lexique/cle-d-accord-du-piano/"
+
+[[redirects]]
 from = "/lexique/pointes-de-balancier-du-piano/index.html"
 to = "/fr/lexique/pointes-de-balancier-du-piano/"
 
 [[redirects]]
 from = "/lexique/pointes-d-enfoncement/index.html"
 to = "/fr/lexique/pointes-d-enfoncement/"
+
+[[redirects]]
+from = "/fr/pilotes-du-piano-174.html"
+to = "/fr/lexique/pilotes-du-piano/"
 
 [[redirects]]
 from = "/lexique/index.html"
@@ -47,12 +71,28 @@ from = "/lexique/mecanique-pleyel-a-double-echappement/index.html"
 to = "/fr/lexique/mecanique-pleyel-a-double-echappement/"
 
 [[redirects]]
+from = "/en/pianoforte-390.html"
+to = ""
+
+[[redirects]]
 from = "/lexique/pianos-a-queue-a-cordes-paralelles/index.html"
 to = "/fr/lexique/pianos-a-queue-a-cordes-paralelles/"
 
 [[redirects]]
+from = "/en/agrafe-36.html"
+to = "/en/agraffe/"
+
+[[redirects]]
 from = "/lexique/mecanique-schwander/index.html"
 to = "/fr/lexique/mecanique-schwander/"
+
+[[redirects]]
+from = "/en/joues-des-touches-176.html"
+to = ""
+
+[[redirects]]
+from = "/en/mouches-enfoncement-du-piano-168.html"
+to = ""
 
 [[redirects]]
 from = "/plan-du-site/index.html"
@@ -71,8 +111,24 @@ from = "/mentions-legales/index.html"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
+from = "/en/etouffoir-du-piano-372.html"
+to = "/en/piano-damper/"
+
+[[redirects]]
+from = "/fr/agrafe-36.html"
+to = "/fr/lexique/agrafe/"
+
+[[redirects]]
 from = "/lexique/mecanique-viennoise/index.html"
 to = "/fr/lexique/mecanique-viennoise/"
+
+[[redirects]]
+from = "/fr/pianoforte-390.html"
+to = "/fr/lexique/pianoforte/"
+
+[[redirects]]
+from = "/jp/agrafe-36.html"
+to = ""
 
 [[redirects]]
 from = "/personnes/index.html"
@@ -83,12 +139,32 @@ from = "/lexique/dieses-en-ebene-du-piano/index.html"
 to = "/fr/lexique/dieses-en-ebene-du-piano/"
 
 [[redirects]]
+from = "/fr/flipot-374.html"
+to = "/fr/lexique/flipot/"
+
+[[redirects]]
+from = "/fr/barres-de-table-ou-barettes-370.html"
+to = "/fr/lexique/barres-de-table-ou-barettes/"
+
+[[redirects]]
+from = "/fr/barre-de-repos-des-marteaux-164.html"
+to = "/fr/lexique/barre-de-repos-des-marteaux/"
+
+[[redirects]]
 from = "/lexique/cordes-paralleles-du-piano/index.html"
 to = "/fr/lexique/cordes-paralleles-du-piano/"
 
 [[redirects]]
+from = "/en/cordes-paralleles-du-piano-377.html"
+to = "/en/piano-straight-strings/"
+
+[[redirects]]
 from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/fr/table-d-harmonie-du-piano-389.html"
+to = "/fr/lexique/table-d-harmonie-du-piano/"
 
 [[redirects]]
 from = "/lexique/barre-de-repos-des-marteaux/index.html"
@@ -103,6 +179,22 @@ from = "/lexique/ivoire-des-touches-de-piano/index.html"
 to = "/fr/lexique/ivoire-des-touches-de-piano/"
 
 [[redirects]]
+from = "/fr/mecanique-schwander-157.html"
+to = "/fr/lexique/mecanique-schwander/"
+
+[[redirects]]
+from = "/fr/manches-de-marteaux-avec-olive-neuves-162.html"
+to = "/fr/lexique/manches-de-marteaux-avec-olive-neuves/"
+
+[[redirects]]
+from = "/en/pianos-droit-a-cadre-en-bois-1860-1920-183.html"
+to = ""
+
+[[redirects]]
+from = "/fr/pianos-a-queue-a-cordes-paralelles-182.html"
+to = "/fr/lexique/pianos-a-queue-a-cordes-paralelles/"
+
+[[redirects]]
 from = "/lexique/etouffoir-du-piano/index.html"
 to = "/fr/lexique/etouffoir-du-piano/"
 
@@ -115,24 +207,108 @@ from = "/lexique/mouches-enfoncement-du-piano/index.html"
 to = "/fr/lexique/mouches-enfoncement-du-piano/"
 
 [[redirects]]
+from = "/fr/mecanique-pleyel-a-double-echappement-272.html"
+to = "/fr/lexique/mecanique-pleyel-a-double-echappement/"
+
+[[redirects]]
 from = "/lexique/flipot/index.html"
 to = "/fr/lexique/flipot/"
+
+[[redirects]]
+from = "/fr/pointes-de-balancier-du-piano-166.html"
+to = "/fr/lexique/pointes-de-balancier-du-piano/"
+
+[[redirects]]
+from = "/fr/sommier-des-chevilles-386.html"
+to = "/fr/lexique/sommier-des-chevilles/"
+
+[[redirects]]
+from = "/fr/pianos-droit-a-cadre-en-bois-1860-1920-183.html"
+to = "/fr/lexique/pianos-droit-a-cadre-en-bois-1860-1920/"
+
+[[redirects]]
+from = "/en/mecanique-schwander-157.html"
+to = ""
+
+[[redirects]]
+from = "/fr/joues-des-touches-176.html"
+to = "/fr/lexique/joues-des-touches/"
+
+[[redirects]]
+from = "/en/diapason-385.html"
+to = "/en/tuning-fork/"
+
+[[redirects]]
+from = "/en/sommier-des-chevilles-386.html"
+to = ""
+
+[[redirects]]
+from = "/en/feutres-des-tetes-des-marteaux-158.html"
+to = "/en/hammer-felt/"
 
 [[redirects]]
 from = "/lexique/feutres-des-tetes-des-marteaux/index.html"
 to = "/fr/lexique/feutres-des-tetes-des-marteaux/"
 
 [[redirects]]
+from = "/fr/cordes-croisees-du-piano-376.html"
+to = "/fr/lexique/cordes-croisees-du-piano/"
+
+[[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/fr/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/feutres-des-tetes-des-marteaux-158.html"
+to = "/fr/lexique/feutres-des-tetes-des-marteaux/"
 
 [[redirects]]
 from = "/lexique/barres-de-table-ou-barettes/index.html"
 to = "/fr/lexique/barres-de-table-ou-barettes/"
 
 [[redirects]]
+from = "/en/mortaises-de-balancier-du-clavier-173.html"
+to = ""
+
+[[redirects]]
+from = "/en/cadre-en-fonte-du-piano-156.html"
+to = "/en/cast-iron-piano-frame/"
+
+[[redirects]]
+from = "/en/pointes-d-enfoncement-167.html"
+to = ""
+
+[[redirects]]
+from = "/fr/tourillon-380.html"
+to = "/fr/lexique/tourillon/"
+
+[[redirects]]
+from = "/fr/double-echappement-piano-373.html"
+to = "/fr/lexique/double-echappement-piano/"
+
+[[redirects]]
+from = "/en/manches-de-marteaux-avec-olive-neuves-162.html"
+to = ""
+
+[[redirects]]
 from = "/organisations/index.html"
 to = "/fr/organisations/"
+
+[[redirects]]
+from = "/fr/etouffoir-du-piano-372.html"
+to = "/fr/lexique/etouffoir-du-piano/"
+
+[[redirects]]
+from = "/fr/diapason-385.html"
+to = "/fr/lexique/diapason/"
+
+[[redirects]]
+from = "/fr/pointes-d-enfoncement-167.html"
+to = "/fr/lexique/pointes-d-enfoncement/"
+
+[[redirects]]
+from = "/fr/attrapes-165.html"
+to = "/fr/lexique/attrapes/"
 
 [[redirects]]
 from = "/lexique/tourillon/index.html"
@@ -143,16 +319,48 @@ from = "/lexique/mortaises-de-balancier-du-clavier/index.html"
 to = "/fr/lexique/mortaises-de-balancier-du-clavier/"
 
 [[redirects]]
+from = "/fr/ivoire-des-touches-de-piano-175.html"
+to = "/fr/lexique/ivoire-des-touches-de-piano/"
+
+[[redirects]]
 from = "/lexique/attrapes/index.html"
 to = "/fr/lexique/attrapes/"
+
+[[redirects]]
+from = "/en/barre-de-repos-des-marteaux-164.html"
+to = "/en/hammer-rail/"
+
+[[redirects]]
+from = "/en/flipot-374.html"
+to = ""
 
 [[redirects]]
 from = "/lexique/hygrometrie/index.html"
 to = "/fr/lexique/hygrometrie/"
 
 [[redirects]]
+from = "/fr/fabrication-des-bouclettes-fran-aises-378.html"
+to = "/fr/lexique/fabrication-des-bouclettes-francaises/"
+
+[[redirects]]
+from = "/fr/mouches-enfoncement-du-piano-168.html"
+to = "/fr/lexique/mouches-enfoncement-du-piano/"
+
+[[redirects]]
+from = "/fr/hygrometrie-375.html"
+to = "/fr/lexique/hygrometrie/"
+
+[[redirects]]
+from = "/en/pilotes-du-piano-174.html"
+to = ""
+
+[[redirects]]
 from = "/lexique/double-echappement-piano/index.html"
 to = "/fr/lexique/double-echappement-piano/"
+
+[[redirects]]
+from = "/fr/dieses-en-ebene-du-piano-177.html"
+to = "/fr/lexique/dieses-en-ebene-du-piano/"
 
 [[redirects]]
 from = "/lexique/cle-d-accord-du-piano/index.html"
@@ -161,6 +369,10 @@ to = "/fr/lexique/cle-d-accord-du-piano/"
 [[redirects]]
 from = "/lexique/manches-de-marteaux-avec-olive-neuves/index.html"
 to = "/fr/lexique/manches-de-marteaux-avec-olive-neuves/"
+
+[[redirects]]
+from = "/fr/cadre-en-fonte-du-piano-156.html"
+to = "/fr/lexique/cadre-en-fonte-du-piano/"
 
 [[redirects]]
 from = "/lexique/fabrication-des-bouclettes-francaises/index.html"
@@ -179,24 +391,108 @@ from = "/lexique/pianoforte/index.html"
 to = "/fr/lexique/pianoforte/"
 
 [[redirects]]
+from = "/en/double-echappement-piano-373.html"
+to = "/en/double-escapement/"
+
+[[redirects]]
+from = "/fr/cordes-paralleles-du-piano-377.html"
+to = "/fr/lexique/cordes-paralleles-du-piano/"
+
+[[redirects]]
 from = "/lexique/joues-des-touches/index.html"
 to = "/fr/lexique/joues-des-touches/"
+
+[[redirects]]
+from = "/en/mecanique-viennoise-392.html"
+to = ""
 
 [[redirects]]
 from = "/lexique/table-d-harmonie-du-piano/index.html"
 to = "/fr/lexique/table-d-harmonie-du-piano/"
 
 [[redirects]]
+from = "/en/tourillon-380.html"
+to = ""
+
+[[redirects]]
+from = "/en/hygrometrie-375.html"
+to = ""
+
+[[redirects]]
 from = "/lexique/pilotes-du-piano/index.html"
 to = "/fr/lexique/pilotes-du-piano/"
+
+[[redirects]]
+from = "/en/pianos-a-queue-a-cordes-paralelles-182.html"
+to = ""
+
+[[redirects]]
+from = "/en/pointes-de-balancier-du-piano-166.html"
+to = ""
+
+[[redirects]]
+from = "/en/attrapes-165.html"
+to = "/en/back-checks/"
+
+[[redirects]]
+from = "/fr/pilotes-d-echappement-du-piano-379.html"
+to = "/fr/lexique/pilotes-d-echappement-du-piano/"
 
 [[redirects]]
 from = "/lexique/agrafe/index.html"
 to = "/fr/lexique/agrafe/"
 
 [[redirects]]
+from = "/en/mecanique-pleyel-a-double-echappement-272.html"
+to = ""
+
+[[redirects]]
+from = "/fr/mecanique-baionnette-391.html"
+to = "/fr/lexique/mecanique-baionnette/"
+
+[[redirects]]
+from = "/en/dieses-en-ebene-du-piano-177.html"
+to = "/en/ebony-sharp-keys/"
+
+[[redirects]]
+from = "/en/ivoire-des-touches-de-piano-175.html"
+to = ""
+
+[[redirects]]
+from = "/fr/mortaises-de-balancier-du-clavier-173.html"
+to = "/fr/lexique/mortaises-de-balancier-du-clavier/"
+
+[[redirects]]
+from = "/en/cordes-croisees-du-piano-376.html"
+to = "/en/piano-crossed-strings/"
+
+[[redirects]]
+from = "/fr/mecanique-viennoise-392.html"
+to = "/fr/lexique/mecanique-viennoise/"
+
+[[redirects]]
 from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/fr/rouleaux-des-marteaux-de-piano-163.html"
+to = "/fr/lexique/rouleaux-des-marteaux-de-piano/"
+
+[[redirects]]
+from = "/en/table-d-harmonie-du-piano-389.html"
+to = ""
+
+[[redirects]]
+from = "/en/cle-d-accord-du-piano-382.html"
+to = "/en/piano-tuning-lever/"
+
+[[redirects]]
+from = "/en/fabrication-des-bouclettes-fran-aises-378.html"
+to = "/en/making-long-french-loops/"
+
+[[redirects]]
+from = "/fr/chevilles-du-piano-371.html"
+to = "/fr/lexique/chevilles-du-piano/"
 
 [[redirects]]
 from = "/lexique/pianos-droit-a-cadre-en-bois-1860-1920/index.html"

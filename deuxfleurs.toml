@@ -24,7 +24,7 @@ to = "/en/piano-ribs/"
 
 [[redirects]]
 from = "/en/rouleaux-des-marteaux-de-piano-163.html"
-to = ""
+to = "/en/piano-hammer-knuckles/"
 
 [[redirects]]
 from = "/en/chevilles-du-piano-371.html"
@@ -40,7 +40,7 @@ to = "/fr/lexique/chevilles-du-piano/"
 
 [[redirects]]
 from = "/en/mecanique-baionnette-391.html"
-to = ""
+to = "/en/overdampers-and-bayonet-action/"
 
 [[redirects]]
 from = "/fr/cle-d-accord-du-piano-382.html"
@@ -72,7 +72,7 @@ to = "/fr/lexique/mecanique-pleyel-a-double-echappement/"
 
 [[redirects]]
 from = "/en/pianoforte-390.html"
-to = ""
+to = "/en/piano-forte/"
 
 [[redirects]]
 from = "/lexique/pianos-a-queue-a-cordes-paralelles/index.html"
@@ -88,11 +88,11 @@ to = "/fr/lexique/mecanique-schwander/"
 
 [[redirects]]
 from = "/en/joues-des-touches-176.html"
-to = ""
+to = "/en/sides-of-keys/"
 
 [[redirects]]
 from = "/en/mouches-enfoncement-du-piano-168.html"
-to = ""
+to = "/en/piano-front-rail-punchings/"
 
 [[redirects]]
 from = "/plan-du-site/index.html"
@@ -128,7 +128,7 @@ to = "/fr/lexique/pianoforte/"
 
 [[redirects]]
 from = "/jp/agrafe-36.html"
-to = ""
+to = "/ja/agurafu/"
 
 [[redirects]]
 from = "/personnes/index.html"
@@ -188,7 +188,7 @@ to = "/fr/lexique/manches-de-marteaux-avec-olive-neuves/"
 
 [[redirects]]
 from = "/en/pianos-droit-a-cadre-en-bois-1860-1920-183.html"
-to = ""
+to = "/en/wooden-framed-upright-pianos-1860-1920/"
 
 [[redirects]]
 from = "/fr/pianos-a-queue-a-cordes-paralelles-182.html"
@@ -228,7 +228,7 @@ to = "/fr/lexique/pianos-droit-a-cadre-en-bois-1860-1920/"
 
 [[redirects]]
 from = "/en/mecanique-schwander-157.html"
-to = ""
+to = "/en/schwander-action/"
 
 [[redirects]]
 from = "/fr/joues-des-touches-176.html"
@@ -240,7 +240,7 @@ to = "/en/tuning-fork/"
 
 [[redirects]]
 from = "/en/sommier-des-chevilles-386.html"
-to = ""
+to = "/en/pinblock/"
 
 [[redirects]]
 from = "/en/feutres-des-tetes-des-marteaux-158.html"
@@ -268,7 +268,7 @@ to = "/fr/lexique/barres-de-table-ou-barettes/"
 
 [[redirects]]
 from = "/en/mortaises-de-balancier-du-clavier-173.html"
-to = ""
+to = "/en/keyboard-balance-mortises/"
 
 [[redirects]]
 from = "/en/cadre-en-fonte-du-piano-156.html"
@@ -276,7 +276,7 @@ to = "/en/cast-iron-piano-frame/"
 
 [[redirects]]
 from = "/en/pointes-d-enfoncement-167.html"
-to = ""
+to = "/en/guide-pins/"
 
 [[redirects]]
 from = "/fr/tourillon-380.html"
@@ -288,7 +288,7 @@ to = "/fr/lexique/double-echappement-piano/"
 
 [[redirects]]
 from = "/en/manches-de-marteaux-avec-olive-neuves-162.html"
-to = ""
+to = "/en/new-hammer-shanks-with-flanges/"
 
 [[redirects]]
 from = "/organisations/index.html"
@@ -332,7 +332,7 @@ to = "/en/hammer-rail/"
 
 [[redirects]]
 from = "/en/flipot-374.html"
-to = ""
+to = "/en/shim/"
 
 [[redirects]]
 from = "/lexique/hygrometrie/index.html"
@@ -352,7 +352,7 @@ to = "/fr/lexique/hygrometrie/"
 
 [[redirects]]
 from = "/en/pilotes-du-piano-174.html"
-to = ""
+to = "/en/piano-capstans/"
 
 [[redirects]]
 from = "/lexique/double-echappement-piano/index.html"
@@ -404,7 +404,7 @@ to = "/fr/lexique/joues-des-touches/"
 
 [[redirects]]
 from = "/en/mecanique-viennoise-392.html"
-to = ""
+to = "/en/viennese-action/"
 
 [[redirects]]
 from = "/lexique/table-d-harmonie-du-piano/index.html"
@@ -412,11 +412,11 @@ to = "/fr/lexique/table-d-harmonie-du-piano/"
 
 [[redirects]]
 from = "/en/tourillon-380.html"
-to = ""
+to = "/en/frame-bushing/"
 
 [[redirects]]
 from = "/en/hygrometrie-375.html"
-to = ""
+to = "/en/relative-humidity/"
 
 [[redirects]]
 from = "/lexique/pilotes-du-piano/index.html"
@@ -424,11 +424,11 @@ to = "/fr/lexique/pilotes-du-piano/"
 
 [[redirects]]
 from = "/en/pianos-a-queue-a-cordes-paralelles-182.html"
-to = ""
+to = "/en/straight-strung-grand-pianos/"
 
 [[redirects]]
 from = "/en/pointes-de-balancier-du-piano-166.html"
-to = ""
+to = "/en/piano-balance-pins/"
 
 [[redirects]]
 from = "/en/attrapes-165.html"
@@ -444,7 +444,7 @@ to = "/fr/lexique/agrafe/"
 
 [[redirects]]
 from = "/en/mecanique-pleyel-a-double-echappement-272.html"
-to = ""
+to = "/en/pleyel-action-with-double-escapement/"
 
 [[redirects]]
 from = "/fr/mecanique-baionnette-391.html"
@@ -456,7 +456,7 @@ to = "/en/ebony-sharp-keys/"
 
 [[redirects]]
 from = "/en/ivoire-des-touches-de-piano-175.html"
-to = ""
+to = "/en/key-ivory/"
 
 [[redirects]]
 from = "/fr/mortaises-de-balancier-du-clavier-173.html"
@@ -480,7 +480,7 @@ to = "/fr/lexique/rouleaux-des-marteaux-de-piano/"
 
 [[redirects]]
 from = "/en/table-d-harmonie-du-piano-389.html"
-to = ""
+to = "/en/piano-soundboard/"
 
 [[redirects]]
 from = "/en/cle-d-accord-du-piano-382.html"
